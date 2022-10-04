@@ -1,7 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
     </extensionMap>
   </component>
 </application>
