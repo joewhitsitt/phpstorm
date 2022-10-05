@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="Karma" />
+        <option value="intellij.webpack" />
+        <option value="intellij.prettierJS" />
+        <option value="org.intellij.plugins.postcss" />
+      </list>
+    </option>
+  </component>
+</application>
