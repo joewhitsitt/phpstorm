@@ -7,6 +7,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
     </extensionMap>
   </component>
 </application>
