@@ -7,9 +7,9 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
