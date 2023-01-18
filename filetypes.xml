@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="deploy_branch" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
