@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="DdevIntegration.NonSticky" displayType="NONE" />
+    <notification groupId="DdevIntegration.Sticky" displayType="NONE" />
+  </component>
+</application>
