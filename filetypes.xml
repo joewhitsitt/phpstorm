@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="deploy_branch" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="theme" type="PHP" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
