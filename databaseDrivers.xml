@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="sqlserver.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="11.2.0" />
+      <artifact id="SQL Server" name="SQL Server" use="true" version="11.2.1" />
     </driver>
     <driver id="mysql.8">
       <artifact />
