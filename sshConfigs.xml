@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="web-33201.prod.hosting.acquia.com" id="102d7440-8c88-4422-9955-d9111180a0a8" port="22" nameFormat="DESCRIPTIVE" username="uiowa703.prod" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="staging-15039.prod.hosting.acquia.com" id="102d7440-8c88-4422-9955-d9111180a0a8" port="22" nameFormat="DESCRIPTIVE" username="uiclas.test" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
