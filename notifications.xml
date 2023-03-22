@@ -2,6 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="DdevIntegration.NonSticky" displayType="NONE" />
     <notification groupId="DdevIntegration.Sticky" displayType="NONE" />
-    <notification groupId="System Messages" shouldLog="false" />
+    <notification groupId="System Messages" displayType="NONE" shouldLog="false" playSound="true" />
   </component>
 </application>
