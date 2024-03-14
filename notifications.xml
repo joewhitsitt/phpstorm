@@ -3,6 +3,7 @@
     <notification groupId="DdevIntegration.NonSticky" displayType="NONE" />
     <notification groupId="DdevIntegration.Sticky" displayType="NONE" />
     <notification groupId="Debugger" displayType="NONE" shouldLog="false" playSound="true" />
+    <notification groupId="PHP External Quality Tools" displayType="NONE" />
     <notification groupId="System Messages" displayType="NONE" shouldLog="false" playSound="true" />
   </component>
 </application>
